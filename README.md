@@ -38,6 +38,7 @@ The project includes **interactive dashboards** showing total cases, active case
 ---
 
 DASHBOARD 
+
 ![Dashboard Screenshot](https://github.com/anshul0699/Zoonotic-Disease-Data-Analysis/blob/main/Image%201.png)
 
 
