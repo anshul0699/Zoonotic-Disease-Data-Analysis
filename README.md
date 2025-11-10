@@ -31,11 +31,18 @@ The project includes **interactive dashboards** showing total cases, active case
 | Category | Tools/Technologies |
 |-----------|--------------------|
 | **Programming Language** | Python |
-| **Libraries** | Pandas, NumPy, Matplotlib, Plotly |
-| **Dashboard Tool** | Power BI / Tableau *(as per usage)* |
+| **Libraries** | Pandas, NumPy, Matplotlib |
+| **Dashboard Tool** | Power BI |
 | **Data Source** | Simulated zoonotic dataset |
-| **Version Control** | Git & GitHub |
 
 ---
 
-## 📂 Project Structure
+Future Scope
+
+Add machine learning models for outbreak prediction.
+
+Enable real-time data streaming from WHO or CDC APIs.
+
+Develop an interactive web app using Streamlit or Dash.
+
+Include climate and seasonal factors in analysis.
