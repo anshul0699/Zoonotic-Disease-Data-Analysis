@@ -40,14 +40,16 @@ The project includes **interactive dashboards** showing total cases, active case
 DASHBOARD 
 
 ![Dashboard Screenshot](https://github.com/anshul0699/Zoonotic-Disease-Data-Analysis/blob/main/Image%201.png)
+![Dashboard Screenshot](https://github.com/anshul0699/Zoonotic-Disease-Data-Analysis/blob/main/Image%202.png)
+![Dashboard Screenshot](https://github.com/anshul0699/Zoonotic-Disease-Data-Analysis/blob/main/Image%205.png)
 
 
 Future Scope
 
-Add machine learning models for outbreak prediction.
+- Add machine learning models for outbreak prediction.
 
-Enable real-time data streaming from WHO or CDC APIs.
+- Enable real-time data streaming from WHO or CDC APIs.
 
-Develop an interactive web app using Streamlit or Dash.
+- Develop an interactive web app using Streamlit or Dash.
 
-Include climate and seasonal factors in analysis.
+- Include climate and seasonal factors in analysis.
